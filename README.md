@@ -1,6 +1,6 @@
 # Reto-CadenaLarga
 
-Por facilidad de revisión he publicado el codigo fuente en stackblitz.
+Por facilidad de revisión he publicado el código fuente en stackblitz.
 
 https://stackblitz.com/edit/node-k11nbj?file=index.js
 
@@ -14,3 +14,7 @@ https://stackblitz.com/edit/node-k11nbj?file=index.js
  * Tener instalado nodejs de preferencia v14
  * Modificar el archivo de entrada input.txt de requerir algún cambio
  * Ejecutar el comando: npm start, sobre la raiz del directorio
+
+
+#Revision de resultados:
+ * Revisar el archivo generado output.txt
